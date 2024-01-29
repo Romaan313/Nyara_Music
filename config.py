@@ -25,8 +25,8 @@ UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/Romaan313/Nyara_Musi
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/II_DPZ_II")
-SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/+WXnUkRHx_MA0Njc1")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/l_DW_l")
+SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/+OwXlutqNgoUyYzJl")
 
 SUPPORT_HEHE = SUPPORT_GROUP.split("me/")[1]
 
@@ -76,11 +76,11 @@ clean = {}
 autoclean = []
 
 
-START_IMG_URL = getenv("START_IMG_URL", "https://te.legra.ph/file/610b22ff85df3ebceec2e.jpg")
+START_IMG_URL = getenv("START_IMG_URL", "https://telegra.ph/file/9a12cbc8ed00bf99833f0.jpg")
 
 PING_IMG_URL = getenv(
     "PING_IMG_URL",
-    "https://graph.org/file/a535f27568f6146dff601.jpg",
+    "https://telegra.ph/file/9a12cbc8ed00bf99833f0.jpg",
 )
 
 PLAYLIST_IMG_URL = "https://te.legra.ph/file/4ec5ae4381dffb039b4ef.jpg"
